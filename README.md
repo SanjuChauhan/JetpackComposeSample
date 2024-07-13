@@ -1,14 +1,36 @@
 ## JetpackComposeSample
-Jetpack Compose Sample wiht UI and APIs is a modern toolkit for building native Android user interfaces. It simplifies and accelerates UI development with less code, powerful tools, and intuitive Kotlin APIs. This declarative framework allows developers to easily create and manage UI components, ensuring a seamless and responsive user experience.
+
+**Jetpack Compose Android Apps** aims to be the starting point for developers to find an Android app with a Jetpack Compose suite of libraries.
+
+Jetpack Compose Sample with UI and APIs is a modern toolkit for building native Android user interfaces. It simplifies and accelerates UI development with less code, powerful tools, and intuitive Kotlin APIs. This declarative framework allows developers to easily create and manage UI components, ensuring a seamless and responsive user experience.
 
 
 ## Features Used
 
 - JetPack Compose
-- Kotlin 
+- Kotlin
 - Compose AppToolbar
+- MVVM
+- Retrofit
+- Medium complexity
+- Resource loading
+- Custom layouts
 
 
+## Sample UIs
+
+<table>
+  <tr>
+    <td><img src="images/Screenshot_20240713_115321.png" width=270 height=480></td>
+    <td><img src="images/Dashboard.png" width=270 height=480></td>
+    <td><img src="images/Details.png" width=270 height=480></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td><img src="images/Dialog.png" width=270 height=480></td>
+    <td><img src="images/Cart_1.png" width=270 height=480></td>
+  </tr>
+ </table>
 
 ## License
 
