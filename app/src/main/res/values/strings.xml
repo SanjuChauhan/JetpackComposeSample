@@ -1,0 +1,13 @@
+<resources>
+    <string name="lbl_app_name">ComposeDemo</string>
+    <string name="lbl_splash">Welcome Shopping</string>
+    <string name="lbl_add_cart">Add to Cart</string>
+    <string name="lbl_confirm_add">Add to Cart</string>
+    <string name="lbl_edit">Edit</string>
+    <string name="lbl_sure_to_confirm_add">Please click continue button for adding selected product to cart.</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="lbl_add">Continue</string>
+    <string name="lbl_select_quantity">Enter item quantity to add for purchase</string>
+    <string name="lbl_update">Update</string>
+    <string name="lbl_delete">Delete</string>
+</resources>
